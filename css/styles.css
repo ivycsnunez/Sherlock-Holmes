@@ -1,13 +1,11 @@
 body {
-  background-color: #FF616D;
-  font-family: "Montserrat-Bold"
-}
-h1, h2 {
-  text-align: center;
+  background-color: pink;
+  font-family: "Montserrat";
 }
 
+
 .table-title {
-  text-align: left
+  text-align: left;
 }
 
 .table-of-contents {
